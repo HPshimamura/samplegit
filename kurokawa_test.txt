@@ -1,12 +1,2 @@
-<<<<<<< HEAD
 1111
 test
-=======
-jhmnjkkii
-
-
-
-
-
-ffsaaa
->>>>>>> ae1452d12765f5266df6b8c206ef17f0963580a6
