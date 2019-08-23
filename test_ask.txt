@@ -1,12 +1,21 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> ae1452d12765f5266df6b8c206ef17f0963580a6
 ﻿Hello Git.
 >>>>>>> f93bfc580c6102b289e8df28bd2f72200c4e7c74
 eeeeddddccc
 
 
 
+<<<<<<< HEAD
+hghghghg
+=======
 hghghghg
 =======
 >>>>>>> 04b9e5a09d6eb9847110a47edace4b5e9e699c06
+>>>>>>> f93bfc580c6102b289e8df28bd2f72200c4e7c74
