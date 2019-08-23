@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+﻿Hello Git.
+>>>>>>> f93bfc580c6102b289e8df28bd2f72200c4e7c74
 eeeeddddccc
 
 
