@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 ﻿Hello Git.
 eeeeddddccc
 
 
 
 hghghghg
+=======
+>>>>>>> 04b9e5a09d6eb9847110a47edace4b5e9e699c06
