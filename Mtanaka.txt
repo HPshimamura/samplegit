@@ -3,3 +3,5 @@ ConflictTest01
 02
 fdfdvrerefd
 wewed
+
+dev02 branch changed
